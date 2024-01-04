@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dark" # "default"  "air", "aqua", "contrast", , "dir
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : " 게임하는 코딩덕후 💻"
+title                    : " 메두사 개발 연구소 🧬"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "게임하는 코딩덕후"
+name                     : "개발자 메두시온"
 description              : "개발 블로그"
-url                      : "https://reoul.github.io"
+url                      : "https://medussion.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "reoul/reoul.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "medussion/medussion.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -94,23 +94,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "게임하는 코딩덕후"
+  name             : "개발자 메두시온"
   avatar           : "/assets/images/profile.PNG"
-  bio              : "프로그래밍을 공부하고 있는 코덕입니다"
+  bio              : "프로그래밍과 게임 개발을 연구하는 직장인입니다"
   #location         : "Seoul, South Korea"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:reoul1358@gmail.com"
+      url: "mailto:neutrogena3@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/reoul"
+      url: "https://github.com/medussion"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/06.25ash"
     - label: "Notion"
       icon: "far fa-fw fa-id-card"
-      url: "https://reoul.notion.site/9340f3452da24121a32c47d61e9f8a8d"
+      url: "https://medusagames.notion.site/812a8edee0cb422abd1f68d666a9de85?pvs=4"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -124,7 +124,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/reoul"
+      url: "https://github.com/medussion"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url:
