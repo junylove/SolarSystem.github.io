@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "개발자 메두시온"
-  avatar           : "/assets/images/profile.PNG"
+  avatar           : "/assets/images/profile.png"
   bio              : "프로그래밍과 게임 개발을 연구하는 직장인입니다"
   #location         : "Seoul, South Korea"
   links:
