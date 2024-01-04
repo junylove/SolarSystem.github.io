@@ -10,7 +10,7 @@
                         style="font-family:'Cafe24Oneprettynight';">개</style>
         </li>
         <li>
-            <span class="nav__sub-title">C/C++/C#</span>
+            <span class="nav__sub-title">프로그래밍 언어</span>
             <ul>
                 {% for category in site.categories %}
                 {% if category[0] == "C" %}
@@ -32,12 +32,19 @@
                 {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                {% if category[0] == "Python" %}
+                <li><a href="/categories/python" class="">파이썬 ({{category[1].size}})</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
 
             <span class="nav__sub-title">Project</span>
             <ul>
                 {% for category in site.categories %}
                 {% if category[0] == "Project" %}
-                <li><a href="/categories/project" class="">완성된 프로젝트 ({{category[1].size}})</a></li>
+                <li><a href="/categories/project" class="">개발 완료 프로젝트 ({{category[1].size}})</a></li>
                 {% endif %}
                 {% endfor %}
             </ul>
@@ -53,7 +60,7 @@
             <ul>
                 {% for category in site.categories %}
                 {% if category[0] == "Unreal" %}
-                <li><a href="/categories/unreal" class="">언리얼 ({{category[1].size}})</a></li>
+                <li><a href="/categories/unreal" class="">언리얼엔진 ({{category[1].size}})</a></li>
                 {% endif %}
                 {% endfor %}
             </ul>
