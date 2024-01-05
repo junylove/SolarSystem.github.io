@@ -10,7 +10,7 @@
                         style="font-family:'Cafe24Oneprettynight';">개</style>
         </li>
         <li>
-            <span class="nav__sub-title" style="margin-top: 40px;">프로그래밍 언어</span>
+            <span class="nav__sub-title" style="margin-top: 60px;">프로그래밍 언어</span>
             <ul>
                 {% for category in site.categories %}
                 {% if category[0] == "C" %}
