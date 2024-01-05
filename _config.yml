@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "개발자 메두시온" 
   avatar           : "/assets/images/profile.png"
-  # badge            : "rank"
+  badge            : "rank"
   bio              : "프로그래밍과 게임 개발을 연구하는 직장인"
   #location         : "Seoul, South Korea"
   links:
