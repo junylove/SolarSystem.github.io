@@ -1,7 +1,7 @@
 ---
 title: "세미나"
 layout: archive
-permalink: categories/Seminar
+permalink: categories/seminar
 author_profile: true
 sidebar_main: true
 ---
