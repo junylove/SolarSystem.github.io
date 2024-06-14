@@ -88,6 +88,7 @@
                 {% endif %}
                 {% endfor %}
             </ul>
+
             <span class="nav__sub-title">기타</span>
             <ul>
                 {% for category in site.categories %}
